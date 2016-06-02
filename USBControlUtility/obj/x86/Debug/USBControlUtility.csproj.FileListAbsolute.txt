@@ -1,0 +1,11 @@
+F:\2015\KellComUtility\USBControlUtility\bin\Debug\USBControlUtility.exe
+F:\2015\KellComUtility\USBControlUtility\bin\Debug\USBControlUtility.pdb
+F:\2015\KellComUtility\USBControlUtility\bin\Debug\KellComUtility.dll
+F:\2015\KellComUtility\USBControlUtility\bin\Debug\KellComUtility.pdb
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\USBControlUtility.Form1.resources
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\USBControlUtility.Properties.Resources.resources
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\USBControlUtility.exe
+F:\2015\KellComUtility\USBControlUtility\obj\x86\Debug\USBControlUtility.pdb

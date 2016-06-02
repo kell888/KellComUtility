@@ -1,0 +1,12 @@
+F:\2015\KellComUtility\ComTest\bin\Debug\ComTest.exe.config
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\ComTest.Properties.Resources.resources
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\2015\KellComUtility\ComTest\bin\Debug\ComTest.exe
+F:\2015\KellComUtility\ComTest\bin\Debug\ComTest.pdb
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\ComTest.exe
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\ComTest.pdb
+F:\2015\KellComUtility\ComTest\obj\x86\Debug\ComTest.Test.resources
+F:\2015\KellComUtility\ComTest\bin\Debug\KellComUtility.dll
+F:\2015\KellComUtility\ComTest\bin\Debug\KellComUtility.pdb

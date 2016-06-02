@@ -1,0 +1,5 @@
+F:\2015\KellComUtility\Parity\bin\Debug\Parity.dll
+F:\2015\KellComUtility\Parity\bin\Debug\Parity.pdb
+F:\2015\KellComUtility\Parity\obj\Debug\ResolveAssemblyReference.cache
+F:\2015\KellComUtility\Parity\obj\Debug\Parity.dll
+F:\2015\KellComUtility\Parity\obj\Debug\Parity.pdb
